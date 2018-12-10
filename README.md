@@ -2,7 +2,7 @@
 
 `nodejs` 抓取页面数据，批量下载图片表情等
 
-## getExpression-爬取表情
+## getEmoji-爬取表情
 
 ```js
 npm install
