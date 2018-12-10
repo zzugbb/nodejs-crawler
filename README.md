@@ -6,7 +6,7 @@
 
 ```js
 npm install
-node getExpression.js
+node getEmoji.js
 ```
 
 两种不同的方式爬取表情，批量下载图片保存到本地, 方法一 :  `node-request`, 方法二 : `node-crawler`

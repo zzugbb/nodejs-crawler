@@ -4,7 +4,7 @@ var request = require('request');
  
 
 //----------第一种写法开始-----------------
-var dir1 = './expression';
+var dir1 = './emoji';
 var baseUrl = 'http://www.dianxiaomi.com/static/img/smile/';  //0fixed.png
 fs.mkdir(dir1, function(err){
   if (err) {
@@ -29,7 +29,7 @@ function download(url, filename) {
 
 
 //----------第二种写法开始-----------------
-var dir2 = './expression2';
+var dir2 = './emoji2';
 
 fs.mkdir(dir2, function(err){
   if (err) {
