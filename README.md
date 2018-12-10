@@ -9,11 +9,20 @@ npm install
 node getEmoji.js
 ```
 
-两种不同的方式爬取表情，批量下载图片保存到本地, 方法一 :  `node-request`, 方法二 : `node-crawler`
+从对应的图片地址，批量下载保存到本地。
 
-## 爬取网页内容
+两种不同的方式爬取表情, 方法一 :  `node-request`, 方法二 : `node-crawler`
 
-待补充
+## getStickersFromHtml-爬取网页内容
+
+```js
+npm install
+node getStickersFromHtml.js
+```
+
+从 网站不同的 `html页面` 进行爬虫，根据页面结构，分析从而获取需要的数据。
+
+从 [表情包网站](https://www.fabiaoqing.com/biaoqing) 爬取最热表情包。注意: 爬取地址见前面, 由于分页，从各个页面抓取.
 
 ## 相关资料
 

@@ -2,6 +2,7 @@
 /node_modules
 /emoji
 /emoji2
+/stickers
 
 npm-debug.log*
 yarn-debug.log*
