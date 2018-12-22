@@ -1,7 +1,7 @@
 # nodejs-crawler
 ![](https://img.shields.io/badge/language-javascript-red.svg)
 ![](https://img.shields.io/badge/license-MIT-blue.svg)
-![](https://img.shields.io/badge/repo%20size-7kb-green.svg)
+![](https://img.shields.io/badge/repo%20size-9kb-green.svg)
 
 `nodejs` 抓取页面数据，批量下载图片表情等
 
